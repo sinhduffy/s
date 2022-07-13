@@ -88,3 +88,10 @@ footer {
 footer a{
 	color: white;
 }
+#img_phtp {
+    border: 1px #d4d4d4 solid;
+    padding: 7px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
