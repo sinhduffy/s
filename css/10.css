@@ -76,14 +76,12 @@ nav a:hover {
   background-color: #04AA6D;
   color: white;
 }
-@media(max-width: 800px){
+@media(max-width: 400px){
 	.left {
 		flex: 100%;
-		flex-wrap: wrap;
 	}
 	.right{
 		flex: 100%;
-		flex-wrap: wrap;
 	}
 	.flex_container {
 		flex-wrap: wrap;
